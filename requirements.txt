@@ -5,3 +5,4 @@ selenium
 setuptools
 soupsieve
 urllib3
+psycopg2
